@@ -1,0 +1,8 @@
+# Ignore everything in the repo root except the project files we want tracked
+*
+!/.gitignore
+!/OneDrive/
+!/OneDrive/Pictures/
+!/OneDrive/Pictures/Screenshots/
+!/OneDrive/Pictures/Screenshots/App Data/
+!/OneDrive/Pictures/Screenshots/App Data/index.html
